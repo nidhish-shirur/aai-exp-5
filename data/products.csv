@@ -1,0 +1,21 @@
+product_id,product_name,brand,category,price,ram_gb,storage_gb,rating,processor,availability
+P001,IdeaPad Slim 5,Lenovo,Laptop,64999,16,512,4.4,Ryzen 5,Yes
+P002,Pavilion 14,HP,Laptop,69999,16,512,4.3,Intel i5,Yes
+P003,Vivobook 15,ASUS,Laptop,62999,16,512,4.5,Ryzen 5,Yes
+P004,Inspiron 15,Dell,Laptop,58999,8,512,4.2,Intel i5,Yes
+P005,ThinkBook 14,Lenovo,Laptop,74999,16,512,4.6,Intel i5,Yes
+P006,Galaxy Book 4,Samsung,Laptop,67999,16,512,4.4,Intel i5,Yes
+P007,MacBook Air M2,Apple,Laptop,89999,8,256,4.7,Apple M2,Yes
+P008,ROG Strix G16,ASUS,Laptop,99999,16,1024,4.8,Intel i7,Yes
+P009,Aspire 5,Acer,Laptop,54999,16,512,4.1,Intel i5,Yes
+P010,IdeaPad Gaming 3,Lenovo,Laptop,71999,16,512,4.5,Ryzen 7,Yes
+P011,HP 15s,HP,Laptop,51999,8,512,4.0,Ryzen 3,Yes
+P012,Vostro 3520,Dell,Laptop,60999,16,512,4.2,Intel i5,Yes
+P013,Zenbook 14,ASUS,Laptop,78999,16,1024,4.6,Intel i7,Yes
+P014,Swift Go 14,Acer,Laptop,72999,16,512,4.4,Intel i5,Yes
+P015,ThinkPad E14,Lenovo,Laptop,68999,16,512,4.5,Ryzen 5,Yes
+P016,Chromebook Plus,HP,Laptop,45999,8,256,4.1,Intel i3,Yes
+P017,Latitude 3440,Dell,Laptop,67999,16,512,4.3,Intel i5,Yes
+P018,TUF Gaming F15,ASUS,Laptop,73999,16,512,4.6,Intel i7,Yes
+P019,MSI Modern 14,MSI,Laptop,65999,16,512,4.4,Intel i5,Yes
+P020,Galaxy Book 3,Samsung,Laptop,59999,8,512,4.2,Intel i5,Yes
